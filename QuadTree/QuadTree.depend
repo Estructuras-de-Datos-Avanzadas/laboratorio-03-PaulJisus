@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1668653175 source:d:\proyectos_c++\eda\quadtree\src\entity.cpp
+	"Entity.h"
+
+1668653792 d:\proyectos_c++\eda\quadtree\include\entity.h
+	<memory>
+	<iostream>
+	<chrono>
+	<vector>
+	<array>
+	<random>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+
+1668653474 source:d:\proyectos_c++\eda\quadtree\src\quadtreenode.cpp
+	"QuadTreeNode.h"
+
+1668653805 d:\proyectos_c++\eda\quadtree\include\quadtreenode.h
+	<memory>
+	<iostream>
+	<chrono>
+	<vector>
+	<array>
+	<random>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+	"Entity.h"
+
